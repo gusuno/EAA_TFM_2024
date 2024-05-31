@@ -1,0 +1,1 @@
+Aquí se guardaran los CSV creados y usados durante el proyecto, que no tengan más sentido en otra carpeta.
