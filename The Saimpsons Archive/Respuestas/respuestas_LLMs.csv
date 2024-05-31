@@ -1,0 +1,601 @@
+fine_tuned,input_character_raw,input_location_raw,raw_text,id,location_output
+True,,,"(The Simpsons: ext. simpsons' house - morning - establishing)
+(The Simpsons: INT. SIMPSONS' HOUSE - HALLWAY - CONTINUOUS)
+Homer Simpson: Marge, this morning I saw a child who was kind of sickly looking, and I'm worried that it might be Bart.
+(The Simpsons: INT. SIMPSONS' HOUSE - kitchen - day)
+Homer Simpson: Marge, the kids are finally asleep. I told 'em a story about a horse and a monkey and they went right out.
+Homer Simpson: (FEELING HIS PANTS) Oh, no. (STANDS UP) I'm wearing kid pants.
+(The Simpsons: INT. SIMPSONS' HOUSE - KITCHEN - DAY)
+Homer Simpson: Marge, you've gotta help me. They're just like the monsters under my bed when I was little. Except they're real.",ft1_char0_loc0_0,simpson house
+True,"['Homer Simpson', 'Bart Simpson']",,"(Homer Simpson: AD LIB OF ""YEAH"" WITH A MOUTHFUL OF CHICKEN)
+(Homer Simpson: RE: BART'S EATING)
+Bart Simpson: Is there no place on this Earth for a kid who's not a screw-up?",ft1_char1_loc0_0,
+True,"['Bart Simpson', 'Lisa Simpson', 'Milhouse Van Houten']",,"Bart Simpson: (SINCERE) I'm glad you're back, Milhouse. I really missed you.
+Milhouse Van Houten: (MOVING HIS HEAD) But I'm still mad.
+Bart Simpson: (GENUINE) And I'm sorry I tore up your picture.
+Bart Simpson: (SAD) It was a good one.
+Milhouse Van Houten: (AFTER A BEAT) I know you're sorry, Bart. And I forgive you.
+Bart Simpson: (HOPEFUL) Can we be friends again?
+Milhouse Van Houten: (FRIENDLY) I think we can.
+Bart Simpson: (WHISPERING) Now let's get out of here before they start doing that ""Jewish stuff.""
+Lisa Simpson: (TO HERSELF) That's so beautiful. Milhouse forgave him. (BEAT, SAD) Why can't I forgive them? (TO MIKE, SADLY) I forgive you. (TO RICHARD, SADLY) I forgive you. (TO JIMMY, SADLY) I forgive you. (ETC.)
+Milhouse Van Houten: (TO BART) Are you thinking what I'm thinking?
+Bart Simpson: (EAGER) You bet.
+Lisa Simpson: (SOBS)
+Bart Simpson: (SIMULTANEOUSLY, TO MILHOUSE) I bet we could take 'em.
+Milhouse Van Houten: At the same time!",ft1_char1_loc0_1,
+True,"['Homer Simpson', 'C. Montgomery Burns', 'Waylon Smithers']",,"(ANOTHER PART OF THE ESTATE - CONTINUOUS)
+C. Montgomery Burns: (TO HOMER) Perhaps you could take a refreshment break.
+Homer Simpson: Oh no. I've got five seconds left in my break... that's it.
+(ANOTHER PART OF THE ESTATE - CONTINUOUS)
+Waylon Smithers: Let's see how he likes a little of the ""old salt lick.""
+Homer Simpson: (SHOCKED, THEN) Mmm. Salt. (MOANS)",ft1_char1_loc0_2,burns estate
+True,"['Homer Simpson', 'Grampa Simpson', 'Helen Lovejoy', 'Bart Simpson', 'Marge Simpson']",Springfield Retirement Castle,"(Springfield Retirement Castle: EXT. RETIREMENT CASTLE - DAY)
+Marge Simpson: I just don't think this is a good idea.
+Homer Simpson: Marge, you know sometimes I have to trick you into doing things?
+Marge Simpson: Uh huh.
+Homer Simpson: Well, I'm doing it again.
+Marge Simpson: (GASP) She's here! (POINTS)
+Homer Simpson: (AMID ANNOYED MURMURS) You're supposed to be sleeping in your chair.
+Grampa Simpson: I'm too excited. (THEN, WITH EXPECTANT LOOK) Is that her? Is that your dead mother?
+Helen Lovejoy: Now, I don't want to start any trouble, but she looks older than her picture and she's not wearing a bra.
+Grampa Simpson: (DISGUSTED SOUND)
+Helen Lovejoy: (SHRIEKS) Why I never!
+Bart Simpson: (ENTHUSIASTIC) I did! (INDICATES HER BREASTS)",ft1_char1_loc1_0,springfield retirement castle
+True,"['Lisa Simpson', 'Otto Mann', 'Ms. Cantwell', 'Agnes Skinner', 'Seymour Skinner', 'Gary Chalmers']",Springfield Elementary School,"(Springfield Elementary School: int. Springfield elementary - cafeteria - later)
+Gary Chalmers: First off, I would like to introduce our new school nurse, Ms. Cantwell.
+Ms. Cantwell: (HOT) Hello, children. I'm not just some sexy vision in a white uniform, like the ones in the (HOLDS UP A BOOK) Book Of Mormon. (THEN) I'm also a registered nurse. (CHUCKLES)
+Otto Mann: (LOOKING AT HIPPY) Well done, God!
+Lisa Simpson: (IMPRESSED) Wow, there really are two things she could be.
+Gary Chalmers: So if you have a tummy ache, a turtle head poking out, or a neon sign that says ""Hepatitis,"" come and see Ms. Cantwell.
+(Springfield Elementary School: int. springfield elementary - hallway - moments later)
+Seymour Skinner: (HOLDS OUT A HALL PASS) I am so happy to see that face.
+Lisa Simpson: Let's just say your last school nurse did her job.
+Seymour Skinner: I don't think that's exactly the right way to put it.
+Lisa Simpson: (RE-GIFTING) Here, then. The chocolate's for you... the tooth's for her.
+Seymour Skinner: Thank you, Lisa. But I think this is the sort of thing we should share with the whole school.
+Seymour Skinner: Now, let's roll.
+Agnes Skinner: (THINKING) A boy and a girl, eh? This is a case for Cupid. He was last seen at the public library, where he was reading up on sex education.
+Agnes Skinner: (SCANDALIZED) Two children kissing at the library? (UPSET NOISE)",ft1_char1_loc1_1,springfield elementary school
+True,"['Homer Simpson', 'Helen Lovejoy', 'Sex Shop Salesman', 'Rev. Timothy Lovejoy', 'Waylon Smithers']",SEX SHOP,"(SEX SHOP: Int. sex shop - continuous)
+Helen Lovejoy: I wish she was as supportive of her husband's store as she is of those poor, starving dogs.
+Rev. Timothy Lovejoy: Thank you for calling ""Store"" Alone. This is Timothy Lovejoy. How can I service you?
+Homer Simpson: It's me. Timothy Lovejoy.
+Jr. Rev. Timothy Lovejoy: (DISAPPOINTED) Oh.
+Homer Simpson: I'm trying to buy something to spice up my marriage. What do you have in a ""waking in on your wife with another woman"" that's not too stagy?
+Rev. Timothy Lovejoy: Homer, I am not comfortable discussing these matters. You should talk to the school psychologist.
+Homer Simpson: We don't have a school psychologist!
+Rev. Timothy Lovejoy: (UNDER HIS BREATH) Well, you should.
+(SEX SHOP: Int. sex shop - continuous)
+(SEX SHOP: Int. sex shop - continuous)
+Waylon Smithers: (GENTLY) Uh, Homer, it's me. Waylon Smithers.
+Homer Simpson: (SURPRISED) What the--?
+Waylon Smithers: (MOANS) Homer, do me a favor.
+Homer Simpson: Sure.
+Waylon Smithers: The calla lilies are a little too tall. Cut them down about a half-inch.
+Homer Simpson: (LAUGHING) No problem. Well, it's nice to know you're in on the secret, Smithers.
+Waylon Smithers: (MOURNFUL) I only wish I could tell the world.
+Homer Simpson: (MENACING) Oh, you will, my friend.
+Waylon Smithers: (ANNOYED) Why must you always stand in the way of progress?
+(SEX SHOP: Int. sex shop - continuous)
+(SEX SHOP: Int. sex shop - day)
+(SEX SHOP: Ext. sex shop - night)
+(SEX SHOP: Int. sex shop - day)
+Helen Lovejoy: We're here to win back our Church from that devil-worshipping store!
+Homer Simpson: I'm not worshipping the devil. I'm buying a Christmas gift for my wife. But I am not feeling the spirit of the season.
+Sex Shop Salesman: Perhaps I can help. You see, true giving is the putting forth of food, time, or money with no visible hope of return. And we're closing in ten minutes, so just pick something and get the hell out.
+Homer Simpson: (GOBBLING) Christmas is the season for giving.
+(SEX SHOP: Int. sex shop - day)
+(SEX SHOP: Ext. sex shop - night)
+(SEX SHOP: Ext. sex shop - night - establishing)
+(SEX SHOP: Int. sex shop - continuous)
+Homer Simpson: Ooh, bondage-me.",ft1_char1_loc1_2,sex shop
+True,"['Milhouse Van Houten', 'Bart Simpson', 'Nelson Muntz']",SPRINGFIELD SWAMP,"(SPRINGFIELD SWAMP: Ext. springfield swamp - continuous)
+Milhouse Van Houten: What do you think it is?
+Bart Simpson: (PROUD) Probably a new species, named in my honor.
+Nelson Muntz: I claim this island!
+Nelson Muntz: Oww!
+Nelson Muntz: Oh, you do?! Now you're gonna be one of them monster-people on the island?
+Nelson Muntz: Just sit me on that island and I'll become your king. (BART LAUGH)",ft1_char1_loc1_3,springfield swamp
+True,"['Homer Simpson', 'Selma Bouvier', 'Ned Flanders', 'Bart Simpson', 'Marge Simpson', 'Milhouse Van Houten']",Simpson Home,"(Simpson Home: INT. simpson house - FAMILY ROOM)
+Marge Simpson: We don't want you to get hurt when they miss the net and the puck flies into the stands.
+Marge Simpson: We'll be okay. We've got our foam paws.
+Bart Simpson: (SAD) Are these foam paws?
+Homer Simpson: Bart, they're yours!
+Bart Simpson: Hey, you said you were throwing these away.
+Homer Simpson: (ANNOYED GRUNT)
+Marge Simpson: (SOTTO) But Selma and I are best friends!
+Homer Simpson: (LAUGHS) Of course you are, dear.
+Milhouse Van Houten: (MOANS) I just can't decide which ring I want.
+Homer Simpson: Let me help you, son! I have a keen eye for fashion.
+Homer Simpson: (WEARY) So, how was your day?
+Bart Simpson: Not now, man. I'm about to make major news in the world of professional sports. I need to get in my zone.
+Ned Flanders: Homer, could you pass the salt?
+Homer Simpson: ""Homer?"" We're not at work anymore. When you're in my house, you call me ""Simpson.""
+Selma Bouvier: Oh, I think we're getting a little too big for our britches.
+Selma Bouvier: (QUICKLY TERRIFYING) I haven't even begun to get swollen with pride.
+Homer Simpson: Ooh. Who's making fun of the new power couple?
+Homer Simpson: It's nincompoop! (CHUCKLES) Idiot! (CHUCKLES) Oaf! (CHUCKLES)
+(Simpson Home: INT. SIMPSON HOUSE - KITCHEN - NIGHT)
+Milhouse Van Houten: We are pleased to announce that Milhouse Van Houten has signed a contract with the Springfield Isotopes!
+Milhouse Van Houten: Eat my dust, defective Jaromirs!",ft1_char1_loc1_4,simpson home
+False,,,"(Interior: Simpson living room. Marge is sitting on the couch flipping through a magazine, Homer is on the floor playing with Maggie, and Bart and Lisa are at the dining table doing homework.)
+Marge Simpson: (sighs) It's so peaceful when everyone is doing their own thing.
+Homer Simpson: (playing with Maggie) Whee! Look at her go!
+Bart Simpson: (frustrated, slamming his pencil down) This math homework is impossible!
+Lisa Simpson: (calmly) Bart, you just need to focus and apply yourself. It's not that hard.
+Bart Simpson: (sarcastically) Oh, sure, easy for the little genius to say.
+(Just then, the doorbell rings. Homer gets up to answer it.)
+Homer Simpson: (excitedly) Ooh, a package! I wonder what it could be.
+(Homer opens the door to find a large box labeled (Mystery Box - Open at Your Own Risk))
+Homer Simpson: (excitedly) Ooh, a mystery box! I can't wait to see what's inside.
+Marge Simpson: (worried) Homer, are you sure it's safe to open that?
+Homer Simpson: (dismissively) Of course, Marge. What could possibly go wrong?
+(Homer opens the box to reveal a bunch of colorful balloons that start floating out of the box and filling up the living room.)
+Marge Simpson: (frantically) Homer, close the box! The balloons are getting out of control!
+(Homer tries to close the box, but more balloons keep coming out, filling up the room and lifting the family off the ground.)
+Bart Simpson: (excitedly) This is awesome!
+Lisa Simpson: (worried) I don't think this is supposed to be happening.
+(Marge grabs onto Maggie, who is floating in the air, while Homer tries to wrangle the balloons back into the box.)
+Homer Simpson: (struggling) I've got it, I've got it!
+(Just then, the box starts shaking and glowing, and a bright light shoots out, enveloping the entire family.)
+Marge Simpson: (screaming) Homer, what have you done?!
+(The light fades, and the family finds themselves floating in outer space, surrounded by stars and planets.)
+Homer Simpson: (amazed) Wow, we're in space! This is even better than I imagined.
+Bart Simpson: (excitedly) I can see our house from here!
+Lisa Simpson: (in awe) This is incredible. But how are we going to get back home?
+(The family looks around, unsure of what to do next, as the camera pans out to show them floating in the vastness of space.)",ft0_char0_loc0_0,simpson living room
+False,,,"(Scene: The Simpson living room. Homer is sitting on the couch, lazily flipping through channels on the TV. Marge is in the kitchen preparing dinner, and Bart and Lisa are playing a board game on the floor.)
+Bart Simpson: (excitedly) Lisa, your turn!
+Lisa Simpson: (thinking) Hmm, I think I'll buy Boardwalk.
+Bart Simpson: (groans) Aw, man! That's gonna bankrupt me!
+Lisa Simpson: (smirking) That's the name of the game, Bart.
+(A loud knocking is heard at the front door. Homer gets up from the couch and opens the door to reveal Ned Flanders standing there, looking anxious.)
+Ned Flanders: Hi-diddly-ho, neighbor-eenos! I hate to bother you, but I seem to have locked myself out of my house again. Could I possibly borrow your phone to call a locksmith?
+Homer Simpson: (sarcastically) Oh, sure, Ned. Just make yourself at home. Again.
+(Homer hands Ned the phone, and Ned dials a number. Meanwhile, Marge walks in from the kitchen carrying a plate of cookies.)
+Marge Simpson: Ned, would you like some cookies while you wait?
+Ned Flanders: Oh, thank you, Marge. You really are a saint.
+(Homer rolls his eyes and mutters to himself as he plops back down on the couch. Suddenly, the doorbell rings again, and this time it's Chief Wiggum and his son Ralph standing outside.)
+Chief Wiggum: (panting) Simpson, we need your help! There's a cat stuck in a tree, and we can't get it down.
+Ralph Wiggum: (excitedly) Meow-meow, Mommy!
+Homer Simpson: (confused) Why are you telling me this? I'm not a firefighter.
+Chief Wiggum: Well, we heard you have a ladder and, uh, we figured...
+(Homer reluctantly gets up and grabs a ladder from the garage. Cut to a montage of Homer, Chief Wiggum, and Ralph hilariously trying to rescue the cat from the tree, with each attempt ending in a comical failure.)
+Marge Simpson: (sighing) Oh, Homer. You never cease to amaze me.
+(The scene fades out as the cat finally gets rescued, and the Simpson family and their neighbors share a laugh together in the backyard.)",ft0_char0_loc0_1,simpson living room
+False,,,"(Scene: The Simpson family living room. Homer is lounging on the couch watching TV, Marge is knitting, Lisa is practicing her saxophone, and Bart Simpson is up to no good.)
+Bart Simpson: (mischievously) Hey, Dad! Want to see a magic trick?
+Homer Simpson: (excitedly) Ooh, a magic trick! I love magic. What do you have in store for me, boy?
+Bart Simpson: (smirking) Just watch this! *pulls out a fake spider from his pocket*
+Homer Simpson: (startled) Ahh! A spider! Get it away from me!
+Marge Simpson: (calmly) Bart, don't scare your father like that.
+Lisa Simpson: (rolling her eyes) It's just a silly prank, Dad. Don't fall for it.
+Homer Simpson: (relieved) Oh, Bart, you got me good! That was a good one.
+(Suddenly, Maggie enters the room and starts crying uncontrollably.)
+Marge Simpson: (concerned) Oh no, what's wrong, Maggie?
+Bart Simpson: (realizing) Uh oh, I think I know what happened. *looks at the fake spider*
+Homer Simpson: (confused) What's going on, Bart?
+Bart Simpson: (guiltily) I think Maggie saw the spider and got scared. I didn't mean for this to happen.
+Marge Simpson: (comforting Maggie) It's okay, sweetie. It was just a silly prank.
+Lisa Simpson: (scolding Bart) See what happens when you play tricks on people, Bart?
+Homer Simpson: (picking up Maggie) I'll take care of you, Maggie. No more scary spiders, I promise.
+(Bart hangs his head in shame as the family comforts Maggie. The camera pans out as the Simpson family comes together in a touching moment, reminding us that even the best-intentioned pranks can have unintended consequences.)",ft0_char0_loc0_2,simpson living room
+True,,,"(The Simpson show: Ext. The Simpson house - day)
+Dr. Hibbert: Children, I'm afraid we have a crisis.
+The Simpsons: (FRIGHTENED NOISE, THEN:) Crisis?! What crisis?!
+Dr. Hibbert: I'm sorry, but Bart's X-rays reveal a problem that requires surgery.
+The Simpsons: (HORRIFIED NOISE, THEN:) Surgery?! What surgery?!
+Dr. Hibbert: You will have to have... your tonsils removed.
+The Simpsons: (GROAN)
+Dr. Hibbert: (CHUCKLES) No need to worry. It's a very simple and painless operation, assuming...
+Homer Simpson: (IMPATIENT) Yes? Assuming what?!
+Dr. Hibbert: Homer, I'm afraid you'll have to be quiet. I need full concentration on Bart. (SHEEPISH) Always easier to talk to the father.
+Dr. Hibbert: Now, Bart, I want you to relax and concentrate all your energy on your throat. (TO HOMER) The boy's a blimp, but he's got the spirit.
+Dr. Hibbert: (SINGING) THE HURRAH MONSTER STOMP.
+Dr. Hibbert: (SINGING) AND THE HALLELUJAH CHORUS.
+Dr. Hibbert: (SINGING) HE'S BOTH THE JUDGE AND JURY.
+Dr. Hibbert: (SINGING) FOR THE BATTLING BUREAUCRATS / WHO REFUSE TO BELIEVE WE'LL EVER BE BACK...
+Dr. Hibbert: (SINGING) WHAT HAPPENED TO THE STORK? / WHERE'S MY GOLDEN EGG? / ANSWER ME THE RIDDLE, OR I'LL BREAK YOUR LEG!
+Dr. Hibbert: (SINGING) NOW, YOU'RE IN MY WORLD / YOU'RE IN MY WORLD...",ft1_char0_loc0_1,simpson house
+True,,,"(The Simpson show: Int. Simpson House - Day)
+Bart Simpson: (READING) To help with that, I've compiled a list of other sayings people really need to stop overusing. (SHRUGS) I've read worse.
+(The Simpson show: Int. Simpson House - Bart's rooM - day)
+Bart Simpson: (VERY WORRIED, FAR AWAY) Oh my God, the only thing I've ever been good at is going out of style! (SOBS)
+(The Simpson show: Int. Simpson house - kitchen - night)
+Lisa Simpson: (GRIM) Bart, this is called The Unbearable Lightness of Being a Fad. Now, every star has a supernova.",ft1_char0_loc0_2,simpson house
+True,,,"(The Simpson show: int. the simpsons house - bart's room - morning)
+Homer Simpson: Bart, what's gotten into you?! Ever since you started working for that store, you've looked happier and more fulfilled.
+Bart Simpson: But Dad, I can't be a boy and a clerk at the same time.
+Homer Simpson: Go to bed, Lisa.
+(The Simpson show: int. the simpsons house - tv room - day)
+Lisa Simpson: Look, Bart! I just discovered this great new website that lets you watch TV on your computer.
+Bart Simpson: (TOUCHES PICTURE OF TV) It's like you're swimming in a pool of stupid.
+Lisa Simpson: Now, I just have to find the station that carries ““It's Always Sunny in Philadelphia.””
+(The Simpson show: ext. springfield mall - day - establishing)
+Bart Simpson: Welcome to the Springfield Mall, where the fun never starts.
+C. Montgomery Burns: I've come for my atomic pile.
+Bart Simpson: Energy's a commodity, old man. It only goes to the highest bidder.
+C. Montgomery Burns: I'll give you anything -- I'll give you the mall!
+Bart Simpson: Too late.
+C. Montgomery Burns: I'll give you the oil under the parking lot!
+Bart Simpson: Too late!
+C. Montgomery Burns: I'll give you the world's biggest stadium!
+Bart Simpson: (TO FRINK) Do we own that?
+Professor Jonathan Frink: (CHECKS PAPER) No, it's just a drawing of a giant toilet.",ft1_char0_loc0_3,bart bedroom
+True,,Simpson home,"(Simpson home: ext. simpson house)
+Marge Simpson: (SUSPICIOUS) Hmm, what's going on here?
+(Simpson home: Int. Simpson house)
+Lisa Simpson: (SCREAMS) Oh my God! The rats are everywhere!
+Marge Simpson: Well, I'm sure it'a just a coincidence...
+Homer Simpson: (SINGING) OUT OF MY WAY, OUT OF MY WAY! I HAVE A BUS TO DRIVE!
+Homer Simpson: (ANOTHER SINGING) TOO FAST, TOO FAST!
+Homer Simpson: (ANOTHER SINGING) IT'S THAT DARN WELCHER AGAIN!
+Homer Simpson: (ANOTHER SINGING) ANIMALS ARE CRACKING UP! SOMETHING'S GOT TO GIVE!
+Marge Simpson: (SMALL GASP) Ooh, a live-action Tom and Jerry.",ft1_char0_loc1_0,simpson home
+True,,Springfield Nuclear Power Plant,"(Springfield Nuclear Power Plant: ext. springfield nuclear power plant - day)
+(Springfield Nuclear Power Plant: ext. springfield nuclear power plant - evening - establishing)
+(Springfield Nuclear Power Plant: int. nuclear power plant - LATER)
+C. Montgomery Burns: You're the expert, Smithers. What do you think?
+Waylon Smithers: The plant's going to be okay, sir. But I'm afraid we've got a bigger problem.
+C. Montgomery Burns: Yes, I see what you mean. I've been saying that all along. Once again, my inspirational leadership has pulled us out of a terrifying tailspin. What's our other problem?
+Waylon Smithers: Um, the plant is completely flooded.
+C. Montgomery Burns: Dear God! Our precious nuclear stockpile!
+Waylon Smithers: I'm sure it's all right, sir. The control rods are back in place.
+C. Montgomery Burns: That's a comfort. Still, the core is probably severely damaged.
+Waylon Smithers: No, I'm sure it's fine. It is fine, isn't it?
+C. Montgomery Burns: Er, well, it's not 110% fine. There are a lot of loose wires and leaking pipes.
+Waylon Smithers: Is that so?
+C. Montgomery Burns: Oh, yes, and the dials and switches and knobs and tubes, things.
+Waylon Smithers: Things, yes.
+C. Montgomery Burns: Well, some of them are... (SCOFFS) Who can say?
+Waylon Smithers: Good lord.
+C. Montgomery Burns: Now, now. If you panic, you'll only wind up in this emergency room that's not up to a hundred and ten percent.
+Waylon Smithers: Sir, I'm afraid they're still down there. I just got back from the hospital and they're blaming all their problems on the plant. They know about the waste and what happened to the cat.
+C. Montgomery Burns: What's that, I'm not familiar with that story.
+Waylon Smithers: Well, I'll give you a hint. It's not fixed.
+C. Montgomery Burns: Smithers, do you think it's time to... (THINKS) See, this is why I would never think of the cat. It's not that my head's too big -- it's just that my brain is too active. And the cat -- the cat was -- who was he? I seem to remember he had a white collar. Like that dog who played with the orca. In fact, I think it was an orca who ate the cat...",ft1_char0_loc1_1,springfield nuclear power plant
+True,,Springfield Elementary School,"(Springfield Elementary School: ext. springfield elementary - establishing - day)
+(Springfield Elementary School: int. springfield elementary - a little later)
+Homer Simpson: (SINGS HAPPILY) LITTLE FISH, BIG FISH, SWIMMIN IN THE WATER... PRINCE EDWARD... (SINGS OFF-KEY)
+(Springfield Elementary School: int. springfield elementary - the simpson kids' classroom)
+Bart Simpson: (INNOCENT) Mr. Glass, which way did he go?
+Glass Eyed Pete: (POINTS OTHER WAY) That way. Now go!
+(Springfield Elementary School: int. springfield elementary - later)
+(Springfield Elementary School: int. springfield elementary - later)
+Homer Simpson: (SINGS TO SELF) LITTLE FISH, BIG FISH, SWIMMIN IN THE WATER... UH, LITTLE FISH, BIG FISH, SWIMMIN IN THE WATER... SINGING... DANCING... BUTTING THE BEACH BALL... BUTTING THE BEACH BALL... AW, THE HELL WITH THIS!
+Homer Simpson: (COCKY) Eh, they're not gonna fire me. We're just gonna be bought by a group that really understands the value of a well-trained staff.
+(Springfield Elementary School: ext. school - establishing - next day)
+(Springfield Elementary School: ext. springfield elementary - the next day)
+Homer Simpson: (SINGS, TO THE TUNE OF OLD MAN RIVER) OH, I WASHED SEVEN HUNDRED SHEETS// AND WHAT DID I GET? / ANOTHER DAY YOUNGER / AND DUMBER IN DEBT.
+Homer Simpson: (TO SONG) TWO. (TO KIDS, SAD) How's that?
+Lisa Simpson: Puzzling. Mrs. Krabappel usually hangs up on you after one.
+Bart Simpson: (SOTTO) She must be really mad.
+(Springfield Elementary School: int. springfield elementary - the next day)",ft1_char0_loc1_2,springfield elementary school
+False,,Springfield Elementary School,"(Scene: Springfield Elementary School, int. Classroom)
+(The bell rings as students start filing into the classroom. Mrs. Krabappel is writing on the chalkboard while Bart and Milhouse are passing notes.)
+Edna Krabappel-Flanders: (reading note) Meet me at the treehouse after school? - B. Bart, care to share with the class what's so important that it can't wait?
+Bart Simpson: Um, it's uh, a uh, study group, Mrs. K. Yeah, that's it. A study group.
+Edna Krabappel-Flanders: (skeptical) A study group, huh? Well, make sure you actually study this time, Bart. Now, class, today we are going to learn about the history of Springfield.
+(The classroom door bursts open and Principal Skinner enters, looking flustered.)
+Seymour Skinner: Attention, students! I have an announcement to make. Due to budget cuts, we will no longer be able to afford lunchroom food. Instead, we will be serving nutritious and delicious Krusty Burgers!
+(Lisa raises her hand.)
+Lisa Simpson: Um, Principal Skinner? Are Krusty Burgers really the best choice for our health and education?
+Seymour Skinner: (nervously) Oh, uh, well, you see, Lisa, Krusty Burgers are a well-balanced meal for growing minds and bodies. Now, back to your studies, everyone!
+(The classroom erupts into chatter as the students express their excitement over the new menu.)
+Bart Simpson: (whispering to Milhouse) This is gonna be the best day ever! Krusty Burgers for lunch!
+Milhouse Van Houten: I don't know, Bart. I heard they use processed cheese food slices.
+(The bell rings, signaling the end of the school day.)
+Edna Krabappel-Flanders: Alright, class, don't forget to study for your history quiz tomorrow. And Bart, I'll be watching to make sure you actually do.
+(Bart and Milhouse rush out of the classroom, eager to head to the treehouse for their secret meeting.)
+Seymour Skinner: (to himself) Oh, dear. I hope this Krusty Burger plan doesn't backfire on me.
+(Scene fades out as the students leave the classroom, excited for the new lunch menu.)",ft0_char0_loc1_0,classroom
+False,,Springfield Nuclear Power Plant,"[INT. SPRINGFIELD NUCLEAR POWER PLANT - DAY]
+[We see Homer SIMPSON sitting at his workstation in the control room, looking bored. MR. BURNS walks in, wearing his signature suit and top hat.]
+C. Montgomery Burns: Ah, Simpson! How are things running today?
+Homer Simpson: (excitedly) Oh, everything's just dandy, Mr. Burns! No meltdowns, no explosions, nothing to worry about!
+C. Montgomery Burns: (suspiciously) Hmm, that's quite unusual for this plant. Are you sure everything is in order?
+Homer Simpson: (nervously) Of course, Mr. Burns! I've been monitoring the reactor all day, and it's running like a well-oiled machine.
+C. Montgomery Burns: (smirking) Well, I suppose I'll just have to take your word for it. But remember, one slip-up, and you'll be out on the street faster than you can say nuclear meltdown.
+[Homer gulps nervously as MR. BURNS exits the control room. Suddenly, the lights flicker, and an alarm starts blaring.]
+Homer Simpson: (panicking) Oh no, not again!
+[We see LISA SIMPSON and BART SIMPSON walking by outside the control room.]
+Lisa Simpson: (sarcastically) Looks like Dad's up to his usual antics.
+Bart Simpson: (grinning) This is gonna be epic!
+[Homer frantically tries to fix the problem, pressing buttons and pulling levers. Smoke starts billowing out of the control panel.]
+Homer Simpson: (screaming) Marge, I'm sorry!
+[MARGE SIMPSON rushes in, wearing a hazmat suit.]
+Marge Simpson: Homer, what have you done this time?
+Homer Simpson: (sheepishly) I may have, uh, accidentally caused a minor nuclear incident.
+Marge Simpson: (rolling her eyes) Well, let me handle this.
+[MARGE deftly fixes the problem, and the alarms stop blaring. The smoke clears, and everything returns to normal.]
+Marge Simpson: (smiling) There, crisis averted. Again.
+Homer Simpson: (hugging MARGE) Oh, Marge, you're my hero!
+[BART and LISA high-five each other outside the control room.]
+Bart Simpson: (jokingly) And they say our family isn't nuclear-powered.
+Lisa Simpson: (laughing) Classic Simpsons chaos.
+[The scene fades out as the Simpsons embrace each other in the control room, happy and relieved.]",ft0_char0_loc1_1,springfield nuclear power plant
+False,,Simpson home,"(Scene: Simpson living room. The family is gathered around the TV.)
+Marge Simpson: (holding a bowl of popcorn) Alright, everyone, it's time for our favorite show!
+Homer Simpson: (excitedly) Woohoo! Nothing beats watching TV with the family.
+Bart Simpson: (smirking) Especially when it's time for Krusty's Komedy Klassics.
+Lisa Simpson: (rolling her eyes) Ugh, Bart, do we really have to watch that again? It's so... lowbrow.
+Bart Simpson: (grinning) Oh, come on, Lis. You know you love it. Plus, I heard Krusty's gonna do a live prank call tonight!
+Lisa Simpson: (intrigued) Really? Well, I guess I can suffer through one more episode.
+(The TV show starts, and Krusty appears on the screen.)
+Krusty the Clown: (excitedly) Hey hey! It's your old pal Krusty the Clown! And tonight, we're gonna do something special. We're gonna make a live prank call to... Moe's Tavern!
+Homer Simpson: (chuckling) Oh, this is gonna be good!
+(Krusty dials the phone, and Moe answers on the other end.)
+Moe Szyslak: (gruffly) Moe's Tavern, Moe speaking.
+Krusty the Clown: (in a disguised voice) Uh, yeah, I'm looking for a... Amanda Hugankiss. Hey guys, I'm looking for Amanda Hugankiss!
+(The family bursts into laughter, except for Lisa who looks unamused.)
+Moe Szyslak: (realizing it's a prank) Oh, I get it. You want me to ask if anyone here is Amanda Hugankiss? Hold on, let me check. (sarcastically) Hey, has anyone seen Amanda Hugankiss?
+(The patrons in Moe's Tavern start laughing, and Moe hangs up in frustration.)
+Bart Simpson: (laughing) Classic! Amanda Hugankiss, I love it!
+Lisa Simpson: (shaking her head) That was so juvenile, Bart.
+Marge Simpson: (chuckling) Oh, lighten up, Lisa. It's just a harmless prank.
+Homer Simpson: (raising his beer) To Bart, the prank call king! May his jokes always be as cheesy as that one.
+Bart Simpson: (grinning) Thanks, Dad. I aim to please.
+(The family continues watching Krusty's show, enjoying the rest of the antics and jokes.)",ft0_char0_loc1_2,simpson living room
+False,"['Marge Simpson', 'Selma Bouvier', 'Patty Bouvier']",,"(Scene: The Simpson living room. Marge is sitting on the couch reading a magazine when the phone rings.)
+Marge Simpson: (answers the phone) Hello?
+Selma Bouvier: Hey, Marge! It's Selma. Patty and I were thinking about having a girls' night out. You in?
+Marge Simpson: Oh, that sounds like fun! Count me in. What do you have in mind?
+Selma Bouvier: How about we go to that new karaoke bar downtown? I heard they have a great happy hour special.
+Marge Simpson: That sounds perfect! Let me just find a sitter for the kids.
+(Cut to the kitchen where Selma and Patty are waiting.)
+Patty Bouvier: Do you think Marge will be able to get away from the kids for the night?
+Selma Bouvier: Oh, she'll find a way. Marge is always up for a good time.
+(Cut back to the living room where Marge is talking to Lisa and Bart.)
+Marge Simpson: Kids, Aunt Selma and Aunt Patty are taking me out for a girls' night. Is it okay if Aunt Selma stays with you tonight?
+Bart Simpson: Cool, we can order pizza and watch TV all night!
+Lisa Simpson: I have a lot of homework, but I guess it's fine.
+Marge Simpson: Great! I'll be back before you know it. Behave for Aunt Selma, okay?
+(Cut to Moe's Tavern where Marge, Selma, and Patty are sitting at a table with drinks in hand.)
+Selma Bouvier: Cheers to a night of fun and freedom!
+Patty Bouvier: That's right! No husbands, no kids, just us girls.
+Marge Simpson: It feels nice to have a break from the daily grind. Let's make the most of it!
+(The karaoke host announces it's time for open mic night and the girls decide to take the stage.)
+Selma Bouvier: I'll go first! (sings badly) I Will Always Love You!
+Patty Bouvier: (laughs) Selma, you never fail to entertain!
+Marge Simpson: (nervously) I guess it's my turn. (sings) Girls Just Want to Have Fun!
+(Audience cheers and claps for Marge's performance.)
+Patty Bouvier: You nailed it, Marge! Who knew you had such a great voice?
+Marge Simpson: Thanks, girls! This is so much fun.
+(The night continues with more singing, dancing, and laughter as the sisters enjoy their girls' night out.)
+(Scene ends with Marge, Selma, and Patty walking home arm in arm, reminiscing about the night.)
+Marge Simpson: Thank you for a wonderful night, girls. I needed this more than you know.
+Selma Bouvier: Anytime, Marge. We'll have to do it again soon.
+Patty Bouvier: Definitely! Girls' nights are the best.
+(They hug each other before parting ways and the screen fades to black.)",ft0_char1_loc0_0,simpson living room
+True,"['Marge Simpson', 'Selma Bouvier', 'Patty Bouvier']",,"(The Simpson show: ext. THE SIMPSONS HOUSE - MORNING - establishing)
+Marge Simpson: (INHALES)
+(The Simpson show: ext. simpson house - back yard - a little later)
+Marge Simpson: (SIGHS) A beautiful spring day, and I'm stuck inside dusting the doilies.
+Marge Simpson: Wait a minute...
+Marge Simpson: (SHOCKED GASP) Why should I be the one to do this stuff?
+Marge Simpson: I'll make Bart do it.
+Marge Simpson: I can't expect Bart to do anything. I'll hire someone.
+Marge Simpson: Someone who won't charge me an arm and a leg.
+Marge Simpson: (CHUCKLES)
+Marge Simpson: (SLY, SAYING TO HERSELF) Someone who needs to build up a client base.
+(The Simpson show: ext. simpson house - front steps - day)
+Marge Simpson: (TO SELF, LIGHTLY CRUEL) I'd better go start his coffee.
+Patty Bouvier: (GASPS) He's so handsome!
+Patty Bouvier: Oh, I love a man who's not afraid to wear seersucker!
+Patty Bouvier: (LOW WOLF WHISTLE)
+Selma Bouvier: Mmm. I love a man who's not afraid to wear seersucker to a funeral.
+(The Simpson show: int. simpson house - kitchen - continuous)
+Marge Simpson: What a dreamboat -- single and employed! Who's he catering a party for?
+Marge Simpson: (SHOCKED GASP, THEN:) What? (THEN:) I'm so sorry. This is so embarrassing. I'll do anything to make it up to you.
+Selma Bouvier: Why, you can cater a party for us!
+Marge Simpson: How big a party?
+Patty Bouvier: The whole Springfield Fire Department will be there.
+Selma Bouvier: Yes, they'll be fighting fires.
+Patty Bouvier: And making them!
+Marge Simpson: Why, I'd love to!",ft1_char1_loc0_3,simpson house
+True,"['Lisa Simpson', 'Nelson Muntz']",,"(The Simpson show: ext. springfield street - day)
+Lisa Simpson: I'm glad I'm back in Springfield.
+Lisa Simpson: The wide open spaces were nice, but I'm a city girl at heart.
+Nelson Muntz: (OFF) Haw haw!
+Lisa Simpson: (GASP)
+Lisa Simpson: It's Nelson! I gotta warn Bart!
+Lisa Simpson: (GASP) He's already caught me.
+Nelson Muntz: Hey, little dude... wanna see a dead body?
+Lisa Simpson: (GIGGLES)
+Nelson Muntz: Sweet! Let's get outta this dead hole!
+Nelson Muntz: (LOOKING AROUND) (GASP) Hey... do you hear a dump truck backing up?
+Nelson Muntz: Whoa.
+Lisa Simpson: I gotta go.
+Lisa Simpson: Bart! Oh, I was so worried! Here, I got you a welcome home present.
+Lisa Simpson: (GROWING CONFUSED NOISE) Bart, you're not really here, are you?
+Bart Simpson: (SADLY) I'm sorry, Lis. Just as I suspected. You're still in a coma and I'm just part of your dream.",ft1_char0_loc0_4,street
+False,"['Lisa Simpson', 'Nelson Muntz']",,"(Scene: Springfield Elementary School. Lisa Simpson is sitting at her desk, scribbling in her notebook. Nelson Muntz walks by and notices her.)
+Nelson Muntz: (smirking) Hey, Lisa. Whatcha writing there? A book on how to be a know-it-all?
+Lisa Simpson: (ignoring him) Just working on my latest project. It's a research paper on the decline of bee populations and its impact on the environment.
+Nelson Muntz: (sarcastically) Oh, I'm sure that's a real page-turner. Not!
+(Lisa rolls her eyes and continues writing. Nelson looks around mischievously and spots a beehive outside the window.)
+Nelson Muntz: Hey, Lisa. I bet you wouldn't be brave enough to go outside and mess with those bees.
+Lisa Simpson: (confidently) I'm not afraid of a few bees, Nelson. Besides, they're crucial to our ecosystem.
+Nelson Muntz: (taunting) Prove it, bookworm. Bet you won't even go near that hive.
+(Lisa sets her jaw determinedly and grabs her backpack. She heads outside to the beehive, with Nelson and a small group of students following behind.)
+Nelson Muntz: (smirking) This is gonna be good.
+(Lisa approaches the beehive cautiously and starts inspecting it, taking notes on her observations. The bees buzz around her, but she remains calm and focused.)
+Nelson Muntz: (impressed) Whoa, she's actually doing it.
+(Just as Lisa is about to finish her observations, one of the bees gets agitated and starts flying towards her face.)
+Lisa Simpson: (panicking slightly) Ahh! Get away!
+(Nelson chuckles, but then he notices the bee heading towards Lisa and instinctively swats it away.)
+Nelson Muntz: (concerned) Are you okay, Lisa?
+Lisa Simpson: (breathing heavily) Yeah, thanks, Nelson. That was close.
+Nelson Muntz: (awkwardly) No problem. I mean, I couldn't let you get stung, right?
+(Lisa smiles gratefully at Nelson, and the other students murmur appreciatively. The bell rings, signaling the end of class.)
+Lisa Simpson: (to Nelson) Thanks for saving me, Nelson. Maybe there's hope for you yet.
+Nelson Muntz: (sheepishly) Yeah, don't get used to it, though. I've got a reputation to uphold.
+(They both laugh as they head back inside the school, with Nelson walking a little taller than usual.)
+(Scene ends with Lisa and Nelson walking side by side, chatting amicably as they disappear into the school building.)",ft0_char1_loc0_1,springfield elementary school
+False,"['Bart Simpson', 'Waylon Smithers', 'Helen Lovejoy']",,"(INT. SPRINGFIELD ELEMENTARY SCHOOL - DAY)
+(We see Bart sitting at his desk in the back of the classroom, sketching something mischievous. Waylon Smithers, the long-suffering assistant to Mr. Burns, walks in hesitantly.)
+Waylon Smithers: (timidly) Um, excuse me, Mrs. Krabappel, I have a message for Bart Simpson.
+Edna Krabappel-Flanders: (sighing) Bart, you have a visitor.
+(Bart looks up, grinning mischievously as he notices Smithers.)
+Bart Simpson: (excitedly) Smithers! What brings you to the house of learning?
+Waylon Smithers: (nervously) Mr. Burns sent me to deliver this message to you, Bart. He insists that you return his favorite rubber duck immediately.
+Bart Simpson: (innocently) Rubber duck? I have no idea what you're talking about, Smithers. Maybe it's with my collection of antique doorknobs.
+Waylon Smithers: (exasperated) Bart, please. Mr. Burns is quite upset about this. He's been wandering the halls muttering about his missing duck.
+(Just then, Helen Lovejoy, the gossipy wife of Reverend Lovejoy, enters the classroom.)
+Helen Lovejoy: (dramatically) Oh, Bart Simpson! I heard all about your latest escapade with Mr. Burns' rubber duck. Shame on you!
+Bart Simpson: (grinning) Mrs. Lovejoy, I'm innocent until proven guilty! And besides, what's the harm in borrowing a rubber duck for a little bath time fun?
+Edna Krabappel-Flanders: (chuckling) Bart, I suggest you resolve this duck dilemma before it causes any more trouble. Now, back to your math problems!
+(Bart and Smithers exchange a sly grin as they head out of the classroom, leaving Helen Lovejoy shaking her head in disapproval.)
+Helen Lovejoy: (sighing) Oh, those Simpson boys. Always causing a stir.
+(The scene fades out as Bart and Smithers make their way to Mr. Burns' office, plotting their next scheme.)
+(FADE OUT.)
+(Note: Please note that this script is a fictional creation and not an actual episode of The Simpsons.)",ft0_char1_loc0_2,springfield elementary school
+True,"['Bart Simpson', 'Waylon Smithers', 'Helen Lovejoy']",,"(The Simpson show: Ext. The Simpson house - front steps - day)
+Bart Simpson: So, what are we gonna do today?
+Lisa Simpson: I know! Let's play Marry-Boff-Kill.
+Bart Simpson: What's that?
+Lisa Simpson: Mom showed this game to me and Maggie. You pick three people -- usually from TV -- then you have to decide which one you would marry, boff or kill.
+Bart Simpson: (RADIANT, FAR-OFF LOOK)
+Lisa, if there's two things I'm good at, it's knowing what people wanna see and knowing what they'll pay to see. So if I were you, I'd put Boff on the left and Kill on the right, 'cause people are gonna wanna see them in that order.
+Lisa Simpson: Let's try it with characters from The Itchy and Scratchy Show. First we have the steel mill worker.
+Lisa Simpson: The kind-hearted, but mush-headed mayor.
+Lisa Simpson: And the proud, lazy army draft dodger.
+Bart Simpson: (DISAPPOINTED MOAN)
+Why'd you stop at three? You could keep going till you get to three million! (MIMES WHIPPING)
+Whip it! Whip it good!
+(The Simpson show: Ext. Springfield - day - establishing)
+(The Simpson show: Ext. Springfield - elementary school - day - establishing)
+(The Simpson show: Ext. Springfield elementary - parking lot)
+Bart Simpson: (ADMIRINGLY) Nice car, Edna.
+Edna Krabappel-Flanders: Thank you. It's the Mose on the hood that classes it up. Bart Simpson: (LAUGHS) Nice. Bart Simpson: (UNDER HIS BREATH) Otto, what do you think?
+Otto: (SMALL) It's like the car of my dream.
+Principal Skinner: Everyone, I'd like to introduce our new fourth grade teacher... Miss Roberta Krabappel.
+Bart Simpson: (GASP) My old teacher?!
+Edna Krabappel-Flanders: (SAD) I'm getting my teaching degree online.
+Edna Krabappel-Flanders: And while I'm waiting for it I'm gonna keep teaching and not get paid, which is really the best part of teaching.
+Principal Skinner: Well, I'll see you all back in class. (MUTTERING) I've got my stank for a month, I'm taking it all.
+Edna Krabappel-Flanders: Well, Bart, how about a hug for your old teacher?
+Bart Simpson: (STIFFLY) I don't know what you're talking about, lady.
+Edna Krabappel-Flanders: You're not upset that you're stuck with me?
+Bart Simpson: No. You're not my teacher. You're just somebody who looks like her and sounds like her and makes out with me at drive-ins like her. But that's it!
+Edna Krabappel-Flanders: (SINGS)I'M A MISTRESS OF THE DARK / I SUCK YOUR SOUL, YOU KISS MY BARK / I'M THE QUEEN OF HALLOWEEN / THOSE PRAYERS YOU PRAY / I'LL NEVER HEED / I'LL GNAW YOUR BONES...
+Bart Simpson: (SINGS)YOU'LL ROAST MY SEEDS / YOU'LL KNOT MY BOW...
+Edna Krabappel-Flanders: (SINGS)WHAT'S A FEMUR??
+Bart Simpson: (SINGS) IT'S YOUR KNEE / I'M THE QUEEN OF HALLOWEEN...
+Waylon Smithers: (SINGING) The Screamatorium! Check it out, check it out / we got a lot of scary stuff...
+Bart Simpson: Hey, guys.
+Waylon Smithers: (SINGS)Who's your friend, who's your friend?
+Bart Simpson: Waylon.
+Waylon Smithers: (SINGS)Waylon?
+Bart Simpson: (SINGS)Wiggum.
+Waylon Smithers: (SINGS)Wiggum.
+Bart Simpson: (SINGS)Smithers!
+Waylon Smithers: (SINGS)Smithers, Smithers.
+Bart Simpson: (SINGS)Smushers.
+Waylon Smithers: (SINGS)Smushers.
+Bart Simpson: (SINGS)Smushers.
+Waylon Smithers: (SINGS)Smushers.
+Bart Simpson: (SINGS)Smushers.
+Waylon Smithers: (SINGS)Smushers.
+Bart Simpson: (SINGS)Smushers.
+Waylon Smithers: (SINGS)Smushers.
+Bart Simpson: (SINGS)Smushers.
+Waylon Smithers: (SINGS)Smushers.
+Bart Simpson: (SINGS)Smushers.
+Waylon Smithers: (SINGS)Smushers.
+Bart Simpson: (SINGS)Smushers!
+Waylon Smithers: (SINGS)(VERY LOUD)
+SMUSHERS!!
+Bart Simpson: Okay, you beat me.
+Waylon Smithers: (SINGS)I did it all for the smushers!
+Helen Lovejoy: (SINGS)What smushers?",ft1_char1_loc0_5,simpson house
+True,"['Homer Simpson', 'Moe Szyslak']",Moe's Tavern,"(The Simpson show: INT. Moe's Tavern - NIGHT)
+Homer Simpson: (SHOCKED) What can I give Marge? What can I give Marge?
+Homer Simpson: Moe, gimme a beer.
+Moe Szyslak: Homer, what'll it be? The usual?
+Homer Simpson: Not today, Moe. Give me a beer, and a packet of Alka-Seltzer.
+Moe Szyslak: Uh-oh. Somebody's got a hot date.
+Homer Simpson: (SCOWLS) Yeah. Marge.
+Moe Szyslak: (COUGHING) Uh, listen, Homer. Could you stop playin' that CD-Rom? I just can't take that much togetherness. (SNIFF) It fills me with a cheap whiskey.
+Homer Simpson: (SOTTO) Moe, could you do me a favor and not play that CD-Rom? Look at me, Moe. Could you turn that off?
+Moe Szyslak: Sorry, Homer, I can't do that.
+Homer Simpson: You fat, stupid, monkey-like, bald slob!
+(The Simpson show: INT. Moe's Tavern - night)
+Moe Szyslak: So, uh, you like-a me to play the CD-Rom now?
+Homer Simpson: Yeah, Moe. Play the CD-Rom.",ft1_char1_loc1_5,moe tavern
+False,"['Homer Simpson', 'Moe Szyslak']",Moe's Tavern,"(Interior: Moe's Tavern. Homer, Moe, Barney, Lenny, and Carl are sitting at the bar. The bar is dimly lit with a few patrons scattered around.)
+Moe Szyslak: (cleaning a glass) So, Homer, how's that new job at the nuclear power plant treating ya?
+Homer Simpson: (excitedly) Oh, it's great, Moe! I got a promotion to Head of Safety. Can you believe it?
+Barney Gumble: (sarcastically) Safety, huh? That's like putting Homer in charge of a donut shop.
+Homer Simpson: Hey, I take safety very seriously! Just last week, I made sure all the emergency exits were properly labeled.
+Lenny Leonard: (chuckling) Yeah, but didn't you accidentally lock yourself in the break room for an hour?
+Homer Simpson: (sheepishly) Well, nobody's perfect.
+Moe Szyslak: (pouring a drink) Well, Homer, looks like you're movin' on up in the world. Drinks are on the house tonight!
+Homer Simpson: (excitedly) Woohoo! Free drinks! I'll have a Duff, a Flaming Moe, and a shot of that fancy tequila you keep hidden under the bar.
+Moe Szyslak: (raising an eyebrow) Easy there, Homer. I don't want you causing another power outage like last time.
+Homer Simpson: (chuckles) Oh, it was just a little accident. Besides, who needs power when you have good friends and cold drinks?
+Barney Gumble: (raising his glass) Here's to Homer, the Safety Czar of Springfield!
+Everyone: (cheers) To Homer!
+(The group clinks glasses and continues their night of laughter and camaraderie at Moe's Tavern.)",ft0_char1_loc1_0,moe tavern
+False,"['C. Montgomery Burns', 'Grampa Simpson']",Springfield Mall,"(Scene: Springfield Mall, crowded with shoppers. Mr. Burns and Grampa Simpson are walking together, surrounded by bags from various stores.)
+Grampa Simpson: Why did you bring me to this blasted mall, Burns? I haven't set foot in this place since they installed those escalators that go up and down at the same time.
+C. Montgomery Burns: Oh, just thought I'd treat you to a little shopping spree, Simpson. It's important to keep up with the times, you know.
+Grampa Simpson: Times? The only time I care about is nap time. Now, where's the nearest bench? My dogs are barking louder than Santa's Little Helper on a squirrel chase.
+(They pass by a store with a large display of flashy gadgets.)
+C. Montgomery Burns: Ah, look at that contraption, Simpson. A cellphone that can also make toast. How marvelous.
+Grampa Simpson: Back in my day, we didn't need phones that made toast. We just yelled out the window for our breakfast.
+(A young salesperson approaches them.)
+Salesperson: Excuse me, sirs, can I interest you in the latest in virtual reality technology?
+C. Montgomery Burns: Virtual reality, you say? I do enjoy escaping the harsh realities of life. Show me more, young man.
+Salesperson: Right this way, gentlemen. Step into our VR world and experience adventures beyond your wildest dreams.
+(Grampa looks skeptical as they put on the VR headsets.)
+Grampa Simpson: This looks like the time I accidentally wandered into that kaleidoscope factory.
+(Mr. Burns and Grampa are immersed in the virtual reality world, dodging dragons and flying through space.)
+C. Montgomery Burns: Oh, this is exhilarating, Simpson! I feel like a young man again, soaring above the clouds.
+Grampa Simpson: Get me out of this contraption, Burns! I think I just punched a digital unicorn.
+(They stumble out of the VR experience, disoriented but exhilarated.)
+C. Montgomery Burns: Well, that was quite the experience, Simpson. Perhaps we should invest in virtual reality for every employee at the plant.
+Grampa Simpson: Bah! I'll stick to my old-fashioned reality, thank you very much. Now, where's that bench you promised me?
+(They continue their shopping adventure, with Grampa muttering about the good old days and Mr. Burns eyeing the latest gadgets with glee.)",ft0_char1_loc1_1,springfield mall
+True,"['C. Montgomery Burns', 'Grampa Simpson']",Springfield Mall,"(Springfield Mall: int. mall - day)
+Grampa Simpson: (MOAN) All I wanna do is suck a little joy out of life, but I can't 'cause I traded my teeth for a couple of magic beans.
+Grampa Simpson: (MOAN) I can't even eat the beans 'cause the stem's too tough for me to digest.
+Grampa Simpson: (MOAN) Why, why, why? I wish I'd never thrown my son out of the house.
+C. Montgomery Burns: Excellent. Now I have you in my power.
+Grampa Simpson: You rotten old man!
+C. Montgomery Burns: (SWEETLY) Oh, Grampa, have you forgotten your precious mother?
+Grampa Simpson: (MOVIE GRUNT) It's you!
+C. Montgomery Burns: Indeed.
+C. Montgomery Burns: I really must commend you, Abraham. In a world of thieves, they have the courage -- the valor -- to pay for their purchase.
+C. Montgomery Burns: (WHISPERING) A penny for your thoughts.
+Grampa Simpson: (AGGRAVATED NOISE)
+C. Montgomery Burns: (SWEETLY) Ma, that's the first time you've spoken in twenty years. I've missed the sound of your voice.
+C. Montgomery Burns: I must have you back. Oh, please say you'll come.
+C. Montgomery Burns: Okay, that's all I needed to hear. Now, come on.
+C. Montgomery Burns: (GRANDLY) Ladies and gentlemen, you have come to know me as a man of infinite mystery and intrigue. But today I'm not here to thrill you with death-defying adventure. I'm here to show you the greatest thrill of all.
+Grampa Simpson: (MOAN) Gamblin'? I shoulda known.
+C. Montgomery Burns: I give you my mother!",ft1_char1_loc1_6,springfield mall
+True,"['Homer Simpson', 'Apu Nahasapeemapetilon']",Kwik-E-Mart Parking Lot,"(Kwik-E-Mart Parking Lot: ext. kwik-e-mart - parking lot - day)
+Homer Simpson: Well, we've done all we can.
+Apu Nahasapeemapetilon: Homer, maybe it's the talking, but I think you might have what they call a spiritual gift. 
+Kwik-E-Mart Parking Lot: ext. kwik-e-mart - parking lot - day)
+Homer Simpson: Come on, Apu, sign my petition to ban sugar from the Kwik-E-Mart.
+Apu Nahasapeemapetilon: I can't. My Kwik-E-Mart is a franchise, so you can't officially ban anything. But I am in favor of anything that deadens the pain of a pointless existence.",ft1_char1_loc1_7,kwik-e-mart parking lot
+False,"['Homer Simpson', 'Apu Nahasapeemapetilon']",Kwik-E-Mart Parking Lot,"(Scene: Kwik-E-Mart Parking Lot. Homer is standing in front of his car, looking frustrated as he struggles to open the trunk. Apu walks over to help.)
+Apu Nahasapeemapetilon: Hello, Mr. Simpson. It appears you are having some trouble with your trunk.
+Homer Simpson: Yeah, stupid thing won't open. Probably because I overloaded it with all those donuts.
+Apu Nahasapeemapetilon: Ah, yes. The donuts. Well, let me give it a try. (Apu tries to open the trunk but also struggles)
+Homer Simpson: See, even you can't do it! Looks like this trunk is just too weak to handle my snack collection.
+(Apu chuckles and takes a step back, surveying the situation)
+Apu Nahasapeemapetilon: Perhaps we need a more... creative solution. (pulls out a crowbar from behind the counter)
+Homer Simpson: Whoa, Apu! Are you sure about this?
+(Apu confidently inserts the crowbar into the trunk and with a mighty heave, manages to pry it open. The trunk bursts open, revealing an avalanche of donuts spilling out.)
+Homer Simpson: My precious donuts! Apu, you're a genius!
+(Apu smiles proudly as Homer dives into the pile of donuts, happily munching away. Suddenly, Chief Wiggum arrives at the scene.)
+Chief Wiggum: What's going on here? I got a report of a donut-related disturbance.
+Homer Simpson: Oh, hey Chief! Just a little trunk trouble, but it's all sorted now thanks to Apu.
+Chief Wiggum: Well, as long as there's no illegal donut smuggling going on here, I'll let you off with a warning. But next time, make sure your trunk can handle the load, Simpson.
+(Homer nods eagerly as Chief Wiggum walks away. Apu and Homer share a laugh as they continue to enjoy the donuts scattered around the parking lot.)
+Apu Nahasapeemapetilon: Ah, the sweet taste of victory... and donuts. Just another day at the Kwik-E-Mart.
+(The scene fades out as Homer and Apu continue to indulge in their sugary treats, the sound of Homer's satisfied munching echoing through the parking lot.)",ft0_char1_loc1_2,kwik-e-mart parking lot
